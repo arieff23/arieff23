@@ -1,5 +1,4 @@
-Hi there 👋
-I'm Arief
+## Hi there I'm Arief
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for help with Data Analyst
