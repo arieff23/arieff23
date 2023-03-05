@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 I'm Arief
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Analyst
@@ -7,7 +7,6 @@ I'm Arief
 - 📫 How to reach me: @pratamafeira@gmail.com
 -->
 
-### Languages and Tools:
 
 ### Languages and Tools:
 
